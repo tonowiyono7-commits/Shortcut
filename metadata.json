@@ -1,0 +1,8 @@
+{
+  "name": "Pintasan Sistem",
+  "description": "Aplikasi pintasan sekali ketuk untuk mengakses berbagai menu dan pengaturan sistem Android dengan cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pintasan Sistem</string>
+    <string name="app_tagline">Akses menu sistem dengan satu ketukan</string>
+    <string name="search_placeholder">Cari Wi-Fi, baterai, developer…</string>
+    <string name="clear_search">Hapus pencarian</string>
+    <string name="toggle_grid_view">Ubah ke tampilan daftar</string>
+    <string name="toggle_list_view">Ubah ke tampilan grid</string>
+    <string name="section_pinned">Pintasan Favorit</string>
+    <string name="section_recent">Terakhir Dibuka</string>
+    <string name="section_all_menus">Semua Menu Sistem</string>
+    <string name="empty_search_title">Menu tidak ditemukan</string>
+    <string name="empty_search_subtitle">Coba kata kunci lain atau pilih kategori Semua untuk melihat seluruh pintasan sistem.</string>
+    <string name="reset_filters">Atur Ulang Filter</string>
+    <string name="pin_shortcut">Sematkan ke Favorit</string>
+    <string name="unpin_shortcut">Hapus dari Favorit</string>
+    <string name="open_menu_now">Buka Menu Sekarang</string>
+    <string name="add_to_home_screen">Tambah ke Layar Utama</string>
+    <string name="copy_intent_action">Salin Action Intent</string>
+    <string name="intent_copied">Action Intent disalin ke papan klip</string>
+    <string name="pin_home_supported_sent">Permintaan pintasan Layar Utama dikirim</string>
+    <string name="pin_home_unsupported">Launcher perangkat ini tidak mendukung penyematan pintasan otomatis</string>
+    <string name="launch_fallback_notice">Membuka menu sistem alternatif untuk %1$s</string>
+    <string name="launch_unavailable_notice">Menu %1$s tidak tersedia di versi Android atau perangkat ini</string>
+    <string name="status_available">Tersedia</string>
+    <string name="status_fallback">Mode Alternatif</string>
+    <string name="long_press_hint">Ketuk untuk membuka • Tahan untuk detail &amp; pintasan layar utama</string>
+    <string name="shortcut_details">Detail pintasan</string>
+    <string name="count_menus_format">%1$d menu</string>
+    <string name="pinned_badge_hint">Disematkan</string>
+</resources>
